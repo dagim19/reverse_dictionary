@@ -14,7 +14,6 @@ embeddings = np.load('dictionary_embeddings.npy')
 dictionary = pd.read_csv('dictionary.csv')
 
 model_id = "sentence-transformers/all-MiniLM-L6-v2"
-hf_token = "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"
 hf_token = config.get('HF_TOKEN', 'token')
 
 
