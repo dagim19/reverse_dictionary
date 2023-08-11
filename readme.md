@@ -1,0 +1,1 @@
+To make the file work, you need to download the `dictionary_embeddings.npy` file the embeddings: [dictionary_embeddings.npy](https://www.kaggle.com/code/dagimashenafi/dictionary-sentence-embeddings/output)
